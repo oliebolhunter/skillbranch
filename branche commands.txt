@@ -1,0 +1,6 @@
+git branch nieuwbranc
+git branch --l
+git branch -m oude naam nieuwe naam
+git branch --delete branchnaam
+git merge branchnaam
+git checkout branchnaam
